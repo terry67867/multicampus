@@ -13,7 +13,7 @@
 
 4. 내가 사용할 원격저장소를 추가한다.
 
-  `git remote add origin` "https://github.com/terry67867/multicampus.git"`
+  `git remote add origin` "https://github.com/terry67867/RubyClass_2.git"`
 5. 파일들을 원격저장소에 보내겠다.
 
   `git push origin master`
@@ -30,3 +30,4 @@
   `git push origin master`
 
 ###### 참조 [강사 깃헙](https://github.com/classtak)
+# RubyClass_2
